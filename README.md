@@ -1,5 +1,11 @@
 # RAG Discord Bot
 
+
+⚠️ **Important Notice – API Deprecated**
+The original chatbot was built using Cohere's older Embed + Rerank + Chat endpoints. As of 2025, this API version is no longer supported, so **the bot currently does not function**.  
+A future update will migrate the system to a new provider (OpenAI / Groq / Cohere v3 / Ollama) to restore functionality.
+
+---
 A Retrieval-Augmented Generation (RAG) powered Discord chatbot that retrieves lecture content from local documents and generates accurate responses inside Discord, minimizing hallucinations by grounding answers in stored knowledge.
 
 ---
